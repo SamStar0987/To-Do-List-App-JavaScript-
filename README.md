@@ -1,6 +1,6 @@
-# 📝 To-Do List App
+# 📝 To-Do List App (https://mytask-to-do.netlify.app/)
 
-A sleek and user-friendly To-Do List web application that helps you organize and prioritize your tasks effectively. Built with HTML, CSS, and JavaScript, this app offers a minimalistic interface with a focus on simplicity and productivity.
+A sleek and user-friendly To-Do List web application that helps you organize and prioritize your tasks effectively. Built with HTML, CSS, and JavaScript, this app offers a minimalistic interface on simplicity and productivity.
 
 ## 🚀 Features
 
